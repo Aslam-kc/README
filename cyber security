@@ -1,74 +1,61 @@
-# 💻 Penetration Tester Portfolio
+Penetration Testing Portfolio
+Welcome to my Penetration Testing Portfolio! This repository showcases my skills, methodologies, and projects in cybersecurity and ethical hacking. Here, you'll find examples of my work, tools I've created, and resources that reflect my expertise as a penetration tester.
 
-Welcome to my portfolio repository! As a **Penetration Tester**, I am dedicated to ensuring the security and integrity of systems and networks by identifying and addressing vulnerabilities before they can be exploited.
-
-## 🚀 About Me
+📜 Table of Contents
+About Me
+Skills
+Projects
+Tools and Techniques
+Certifications
+Contact
+👨‍💻 About Me
+I am a passionate and dedicated penetration tester with a strong background in cybersecurity and ethical hacking. My mission is to help organizations identify and mitigate vulnerabilities in their systems.
 
 I specialize in:
-- Ethical hacking and vulnerability assessment.
-- Network, web application, and system security testing.
-- Reporting and documenting security risks with actionable remediation strategies.
 
-With a strong foundation in cybersecurity principles and practical experience in penetration testing, I aim to contribute to creating safer digital environments.
+Web application security
+Network security assessments
+Exploitation and privilege escalation
+Social engineering
+🔧 Skills
+Operating Systems: Linux (Kali, Parrot OS), Windows
+Programming/Scripting: Python, Bash, PowerShell
+Tools: Metasploit, Burp Suite, Nmap, Wireshark, Nessus, John the Ripper, Hydra
+Frameworks: OWASP Top 10, MITRE ATT&CK
+Methodologies: Black Box Testing, Grey Box Testing, Red Teaming
+💼 Projects
+1. Web Application Penetration Testing
+Conducted an end-to-end security assessment for a mock e-commerce platform.
+Discovered and mitigated SQL injection, XSS, and CSRF vulnerabilities.
+Tools Used: Burp Suite, OWASP ZAP, SQLmap.
+2. Network Security Assessment
+Simulated attacks on a corporate network to identify weak points.
+Created detailed vulnerability reports with remediation steps.
+Tools Used: Nmap, Nessus, Wireshark.
+3. Custom Exploits
+Developed Python scripts to automate exploitation of vulnerable systems.
+Examples include custom buffer overflow exploits.
+4. Capture the Flag (CTF) Challenges
+Participated in platforms like TryHackMe, Hack The Box, and VulnHub.
+Solved challenges involving reverse engineering, cryptography, and forensics.
+🛠️ Tools and Techniques
+Here’s a snapshot of the tools and techniques I regularly use:
 
----
+Scanning: Nmap, Nessus
+Exploitation: Metasploit, Exploit DB
+Password Cracking: John the Ripper, Hashcat
+Web Testing: Burp Suite, OWASP ZAP
+Monitoring and Analysis: Wireshark, tcpdump
+Automation: Python scripting for custom tools and workflows
+🎓 Certifications
+CompTIA Security+
+Certified Ethical Hacker (CEH)
+Offensive Security Certified Professional (OSCP)
+TryHackMe and Hack The Box Ranks
+📫 Contact
+Feel free to reach out to me:
 
-## 🔧 Skills
-
-- **Languages**: Python, Bash, PowerShell
-- **Tools**: Nmap, Burp Suite, Metasploit, Nessus, Wireshark, Kali Linux
-- **Testing Areas**:
-  - Web application penetration testing
-  - Network security testing
-  - Wireless security assessments
-  - Social engineering tests
-- **Certifications**: [List any certifications, e.g., OSCP, CEH, CompTIA Security+, etc.]
-
----
-
-## 📂 Projects
-
-### 1. **Vulnerability Assessment and Penetration Testing (VAPT)**
-- Conducted VAPT on a multi-tier application.
-- Tools Used: Burp Suite, OWASP ZAP, Nmap, Nessus
-- Outcome: Identified critical vulnerabilities and proposed fixes to secure the application.
-
-### 2. **Red Team Engagement**
-- Simulated a real-world attack on a corporate environment.
-- Tools Used: Metasploit, Mimikatz, BloodHound
-- Outcome: Delivered a detailed report highlighting potential attack vectors and recommendations for mitigation.
-
-### 3. **Web Application Security Testing**
-- Tested an e-commerce platform for OWASP Top 10 vulnerabilities.
-- Tools Used: Burp Suite, SQLmap, Nikto
-- Outcome: Secured the application against SQL injection, XSS, and CSRF vulnerabilities.
-
----
-
-## 📖 Blogs & Write-Ups
-
-- [Exploring the OWASP Top 10](#)  
-- [Step-by-Step Guide to Setting Up a Home Lab for Penetration Testing](#)  
-- [Deep Dive into Network Security Testing](#)  
-
----
-
-## 🎯 Goals
-
-- Continuously improving my skills in advanced penetration testing methodologies.
-- Contributing to open-source security projects.
-- Gaining expertise in cloud security penetration testing.
-
----
-
-## 📬 Contact Me
-
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **GitHub**: [Your GitHub Profile](#)
-- **Website**: [Your Personal Website](#)
-
----
-
-### ⚠️ Disclaimer
-All tools and techniques mentioned here are strictly for ethical and authorized testing purposes. Unauthorized access or hacking is illegal and punishable by law.
+Email: [Your Email Address]
+LinkedIn: [Your LinkedIn Profile]
+Twitter: [Your Twitter Handle]
+Website/Blog: [Your Portfolio Website]
